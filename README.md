@@ -12,5 +12,5 @@ This Data Science project is intended to train a model and classify video game r
 * [PP Presentation](https://github.com/soto-sergio/gameVibe/blob/main/DataMiningCompetitionPresentation.pdf)
 
 <p align = "center">
-  <img src = "https://user-images.githubusercontent.com/104229323/227695493-f45be107-64fa-459f-84d6-664fd8ba6571.png">
+  <img src = "https://user-images.githubusercontent.com/104229323/227695493-f45be107-64fa-459f-84d6-664fd8ba6571.png" width =200 height = 200 >
 </p>
